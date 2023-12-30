@@ -55,7 +55,7 @@ nav {
 
 .logoText {
   color: #0b132a;
-  font-family: Rubik;
+  font-family: "Rubik", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -81,7 +81,7 @@ nav {
 .liNav {
   margin-right: 20px;
   color: #4f5665;
-  font-family: Rubik;
+  font-family: "Rubik", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -603,7 +603,7 @@ header {
 
 .subcriiontionTextH5 {
   color: #4f5665;
-  font-family: Rubik;
+  font-family: "Rubik", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -618,7 +618,7 @@ header {
   flex-shrink: 0;
   border: none;
   color: #fff;
-  font-family: Rubik;
+  font-family: "Rubik", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -657,7 +657,7 @@ footer {
 .footerP {
   background: #f8f8f8;
   color: #4f5665;
-  font-family: Rubik;
+  font-family: "Rubik", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
