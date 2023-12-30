@@ -566,6 +566,7 @@ header {
 .navBothEroows {
   width: 85px;
   height: 60px;
+  cursor: pointer;
 }
 
 /* subscribtion */
