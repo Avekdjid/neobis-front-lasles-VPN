@@ -540,6 +540,7 @@ header {
   margin-left: 60px;
 }
 
+/* subscribtion */
 .subscribtion {
   max-width: 1000px;
   height: 180px;
@@ -549,6 +550,9 @@ header {
   margin-top: 4%;
   border: 1px solid rgb(237, 235, 235);
   border-radius: 10px;
+  /* position: relative; 
+  z-index: 1; 
+  margin-top: 50%;  */
 }
 
 .subText {
@@ -597,17 +601,30 @@ header {
 /* footer */
 
 footer {
+  z-index: auto;
   width: 1440px;
   height: 563px;
   background: #f8f8f8;
   display: flex;
   justify-content: space-evenly;
+  position: relative;
+  z-index: auto;
 }
 
 .footerLeft {
   background: #f8f8f8;
   margin-top: 15%;
   max-width: 350px;
+}
+.linksIcon {
+  background: #f8f8f8;
+}
+.iconLinksSN {
+  background: #f8f8f8;
+}
+
+.iconsFooter {
+  background: #f8f8f8;
 }
 .footerP {
   background: #f8f8f8;
@@ -663,55 +680,65 @@ footer {
   margin-top: 30%;
 }
 
-.footProduct a {
+.footProduct li {
   color: #4f5665;
-  font-family: Rubik;
+  font-family: "Rubik", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 50px;
+  list-style: none;
+  background-color: #f8f8f8;
 }
 
-.footEngage a {
+.footEngage li {
   color: #4f5665;
-  font-family: Rubik;
+  font-family: "Rubik", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 50px;
+  list-style: none;
+  background-color: #f8f8f8;
 }
 
-.footMoney a {
+.footMoney li {
   color: #4f5665;
-  font-family: Rubik;
+  font-family: "Rubik", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 50px;
+  list-style: none;
+  background-color: #f8f8f8;
 }
 
-.footMoney p {
+.footMoney ul {
   color: #0b132a;
   font-family: "Rubik", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
   line-height: 30px;
+  background-color: #f8f8f8;
 }
-.footEngage p {
+.footEngage ul {
   color: #0b132a;
   font-family: "Rubik", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
   line-height: 30px;
+  background-color: #f8f8f8;
 }
 
-.footProduct {
+.footProduct ul {
   color: #0b132a;
   font-family: "Rubik", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
   line-height: 30px;
+  background-color: #f8f8f8;
 }
+
