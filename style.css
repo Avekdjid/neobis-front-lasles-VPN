@@ -7,6 +7,43 @@
   background: #ffffff;
 }
 
+/* failed attempt to mader and adaptive layout  */
+/* .adaptiv {
+  width: 1200px;
+  height: 100%;
+  margin: auto;
+  display: grid;
+  gap: 10px;
+}
+
+@media (max-width: 1200px) {
+  .adaptiv {
+    width: 1200px;
+    grid-template-columns: 1fr 280px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .adaptiv {
+    width: 768px;
+    grid-template-columns: 1fr 280px;
+  }
+}
+
+@media (max-width: 768px) {
+  .adaptiv {
+    width: 480px;
+    grid-template-columns: 1fr 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .adaptiv {
+    width: 100px;
+    grid-template-columns: 1fr 280px;
+  }
+} */
+
 /* nav */
 nav {
   padding: 10px 20px;
@@ -526,18 +563,9 @@ header {
   height: 15px;
   margin-top: 20px;
 }
-
-.btnArrowNav1 {
-  border: none;
-  width: 40px;
-  height: 40px;
-}
-
-.btnArrowNav2 {
-  border: none;
-  width: 40px;
-  height: 40px;
-  margin-left: 60px;
+.navBothEroows {
+  width: 85px;
+  height: 63px;
 }
 
 /* subscribtion */
