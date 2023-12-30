@@ -25,6 +25,6 @@ CSS
 <img width="1283" alt="Screen Shot 2023-12-30 at 18 13 29" src="https://github.com/Avekdjid/neobis-front-lasles-VPN/assets/121440291/b5fc2e15-bb36-43f1-a71a-731ed0116bcd">
 
 TO INSTALL THE PROJECT:
-The usual HTML/CSS bundle is enough, no additional installations are required.
+ALL YOU NEED IS  HTML/CSS, no additional installations are required.
 
 
